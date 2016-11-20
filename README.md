@@ -1,1 +1,0 @@
-This is a GitHub tutorial for beginner. 
